@@ -1,0 +1,17 @@
+C:\Users\MSI\учеба\ReStore\bin\Debug\net6.0\ReStore.exe
+C:\Users\MSI\учеба\ReStore\bin\Debug\net6.0\ReStore.deps.json
+C:\Users\MSI\учеба\ReStore\bin\Debug\net6.0\ReStore.runtimeconfig.json
+C:\Users\MSI\учеба\ReStore\bin\Debug\net6.0\ReStore.dll
+C:\Users\MSI\учеба\ReStore\bin\Debug\net6.0\ReStore.pdb
+C:\Users\MSI\учеба\ReStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.csproj.AssemblyReference.cache
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.AssemblyInfoInputs.cache
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.AssemblyInfo.cs
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.csproj.CoreCompileInputs.cache
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.csproj.CopyComplete
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.dll
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\refint\ReStore.dll
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.pdb
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ReStore.genruntimeconfig.cache
+C:\Users\MSI\учеба\ReStore\obj\Debug\net6.0\ref\ReStore.dll

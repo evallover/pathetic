@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwRpYrCKdZT3+MSdHYo888B2y9NK0Qzh/xKWRNNperlz7mMm2YV/vC3TWngBkYZuuPNNAq09GeDVSI8oIlcFsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\учеба\\ReStore\\ReStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.12\\microsoft.netcore.app.host.win-x86.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
